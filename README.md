@@ -9,7 +9,6 @@ This project is an implementation of the popular game 2048. The game is played o
 - Classic 2048 gameplay
 - Responsive grid design
 - Score tracking
-- Best score saving
 
 ## How to Play
 
