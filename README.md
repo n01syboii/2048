@@ -35,9 +35,10 @@ This project is an implementation of the popular game 2048. The game is played o
 - CSS3
 - JavaScript
 
+
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/n01syboii/2048game/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/n01syboii/2048/issues) if you want to contribute.
 
 ## Acknowledgments
 
@@ -48,4 +49,4 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 n01syboii - [@n01syboii](https://github.com/n01syboii)
 
-Project Link: [https://github.com/n01syboii/2048game](https://github.com/n01syboii/2048game)
+Project Link: [https://github.com/n01syboii/2048](https://github.com/n01syboii/2048)
