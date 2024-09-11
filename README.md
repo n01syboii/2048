@@ -21,11 +21,11 @@ This project is an implementation of the popular game 2048. The game is played o
 
 1. Clone the repository:
    ```
-   git clone https://github.com/n01syboii/2048game.git
+   git clone https://github.com/n01syboii/2048.git
    ```
 2. Navigate to the project directory:
    ```
-   cd 2048game
+   cd 2048
    ```
 3. Open `index.html` in your web browser to start playing.
 
